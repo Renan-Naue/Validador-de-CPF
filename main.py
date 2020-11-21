@@ -1,5 +1,4 @@
 import re
-cpf = '10291022952'
 
 def isCpfValid(cpf):
     
